@@ -5,7 +5,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Murilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Murilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img src="https://cdn.discordapp.com/attachments/1182816408715935786/1224168712978956308/hinh-nen-dong-phong-canh-dem-dep.gif?e" align="left" width="250" height="260">
+  <img src="dogs.gif" align="left" width="250" height="260">
 </div>
  
  ##
