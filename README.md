@@ -2,7 +2,12 @@
 
 - 💻 Atualmente fazendo faculdade de Ciência da Computação
 - 👾 Sempre em busca de mais aprendizado e novas oportunidades!
- 
+  <div>
+   <img align="center" alt="Yago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Yago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ ##
+  </div>
+
  ##
 
  <div> 
