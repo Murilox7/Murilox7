@@ -1,4 +1,4 @@
-### Me chamo Murilo Gavioli!
+### Me chamo Murilo!
 
 - 💻 Atualmente fazendo faculdade de Ciência da Computação
 - 👾 Sempre em busca de mais aprendizado e novas oportunidades!
